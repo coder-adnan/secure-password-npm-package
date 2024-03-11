@@ -1,0 +1,17 @@
+{
+  "name": "secure-password-hash",
+  "version": "1.0.1",
+  "description": "A secure hashing library for Node.js",
+  "main": "lib/secure-hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "hash",
+    "security",
+    "encryption"
+  ],
+  "author": "",
+  "license": "ISC"
+}
